@@ -1,0 +1,511 @@
+sno,deptName,courseName,semId,sectionId,subjectName,facultyName
+1,MECH,Btech,semester1,section1,"Engineering Mechanics","Prof. Richard Turner"
+2,MECH,Btech,semester1,section1,Mathematics-I,"Dr Srikar varma"
+3,MECH,Btech,semester1,section1,Physics-I,"Prof sravika"
+4,MECH,Btech,semester1,section1,Chemistry,"Prof chekri"
+5,MECH,Btech,semester1,section1,"ComPuter Programming","Dr. Megan Clark"
+6,MECH,Btech,semester1,section1,"Engineering Drawing (Lab)","Prof. Matthew Harris"
+7,MECH,Btech,semester1,section1,"ComPuter Programming (Lab)","Dr. Megan Clark"
+8,MECH,Btech,semester1,section2,"Engineering Mechanics","Prof. Thomas Wilson"
+9,MECH,Btech,semester1,section2,Mathematics-I,"Prof Praneeth"
+10,MECH,Btech,semester1,section2,Physics-I,"Prof padmavathi"
+11,MECH,Btech,semester1,section2,Chemistry,"Dr Manohar"
+12,MECH,Btech,semester1,section2,"ComPuter Programming","Prof. Jonathan Thomas"
+13,MECH,Btech,semester1,section2,"Engineering Drawing (Lab)","Prof. Patrick Turner"
+14,MECH,Btech,semester1,section2,"ComPuter Programming (Lab)","Prof. Jonathan Thomas"
+15,MECH,Btech,semester2,section1,Thermodynamics,"Dr. Jessica Turner"
+16,MECH,Btech,semester2,section1,Mathematics-II,"Dr Srikar varma"
+17,MECH,Btech,semester2,section1,Physics-II,"Prof sravika"
+18,MECH,Btech,semester2,section1,"Material Science","Dr. Rachel Scott"
+19,MECH,Btech,semester2,section1,"Electrical Circuits","Prof. Elizabeth White"
+20,MECH,Btech,semester2,section1,"Material Science (Lab)","Prof. Patrick Turner"
+21,MECH,Btech,semester2,section1,"Electrical Circuits (Lab)","Prof. Elizabeth White"
+22,MECH,Btech,semester2,section2,Thermodynamics,"Dr. Laura Parker"
+23,MECH,Btech,semester2,section2,Mathematics-II,"Prof Praneeth"
+24,MECH,Btech,semester2,section2,Physics-II,"Prof padmavathi"
+25,MECH,Btech,semester2,section2,"Material Science","Prof. Thomas Wilson"
+26,MECH,Btech,semester2,section2,"Electrical Circuits","Dr. Benjamin Clark"
+27,MECH,Btech,semester2,section2,"Material Science (Lab)","Dr. Emily Allen"
+28,MECH,Btech,semester2,section2,"Electrical Circuits (Lab)","Dr. Benjamin Clark"
+29,MECH,Btech,semester3,section1,"Fluid Mechanics","Prof. Patrick Turner"
+30,MECH,Btech,semester3,section1,"Engineering Mathematics-III","Dr Srikar varma"
+31,MECH,Btech,semester3,section1,"Mechanics of Solids","Prof. Eric Mitchell"
+32,MECH,Btech,semester3,section1,"Manufacturing Processes-I","Dr. Amanda Reed"
+33,MECH,Btech,semester3,section1,"Kinematics of Machinery","Dr. Melissa Green"
+34,MECH,Btech,semester3,section1,"Fluid Mechanics (Lab)","Dr. Rachel Scott"
+35,MECH,Btech,semester3,section1,"Mechanics of Solids (Lab)","Prof. Brian Martinez"
+36,MECH,Btech,semester3,section2,"Fluid Mechanics","Dr. Amanda Reed"
+37,MECH,Btech,semester3,section2,"Engineering Mathematics-III","Prof Praneeth"
+38,MECH,Btech,semester3,section2,"Mechanics of Solids","Dr. Rachel Scott"
+39,MECH,Btech,semester3,section2,"Manufacturing Processes-I","Prof. Thomas Wilson"
+40,MECH,Btech,semester3,section2,"Kinematics of Machinery","Dr. Amanda Reed"
+41,MECH,Btech,semester3,section2,"Fluid Mechanics (Lab)","Prof. Brian Martinez"
+42,MECH,Btech,semester3,section2,"Mechanics of Solids (Lab)","Dr. Emily Allen"
+43,MECH,Btech,semester4,section1,"Machine Design-I","Prof. Richard Turner"
+44,MECH,Btech,semester4,section1,"Manufacturing Processes-II","Prof. Eric Mitchell"
+45,MECH,Btech,semester4,section1,"Theory of Machines-I","Dr. Laura Parker"
+46,MECH,Btech,semester4,section1,"Numerical Methods","Prof Praneeth"
+47,MECH,Btech,semester4,section1,"Control Engineering-I","Prof. Sarah Roberts"
+48,MECH,Btech,semester4,section1,"Machine Design-I (Lab)","Prof. Thomas Wilson"
+49,MECH,Btech,semester4,section1,"Control Engineering-I (Lab)","Prof. Sarah Roberts"
+50,MECH,Btech,semester4,section2,"Machine Design-I","Dr. Melissa Green"
+51,MECH,Btech,semester4,section2,"Manufacturing Processes-II","Dr. Emily Allen"
+52,MECH,Btech,semester4,section2,"Theory of Machines-I","Prof. Brian Martinez"
+53,MECH,Btech,semester4,section2,"Numerical Methods","Dr Srikar varma"
+54,MECH,Btech,semester4,section2,"Control Engineering-I","Dr. Jason Young"
+55,MECH,Btech,semester4,section2,"Machine Design-I (Lab)","Dr. Jessica Turner"
+56,MECH,Btech,semester4,section2,"Control Engineering-I (Lab)","Dr. Jason Young"
+57,MECH,Btech,semester5,section1,"Machine Design-II","Dr. Amanda Reed"
+58,MECH,Btech,semester5,section1,"Thermal Engineering-I","Dr. Rachel Scott"
+59,MECH,Btech,semester5,section1,"Heat Transfer","Dr. Laura Parker"
+60,MECH,Btech,semester5,section1,"Manufacturing Processes-III","Prof. Eric Mitchell"
+61,MECH,Btech,semester5,section1,CAD/CAM,"Dr. Rachel Scott"
+62,MECH,Btech,semester5,section1,"Heat Transfer (Lab)","Prof. Richard Turner"
+63,MECH,Btech,semester5,section1,"CAD/CAM (Lab)","Dr. Melissa Green"
+64,MECH,Btech,semester5,section2,"Machine Design-II","Prof. Eric Mitchell"
+65,MECH,Btech,semester5,section2,"Thermal Engineering-I","Dr. Laura Parker"
+66,MECH,Btech,semester5,section2,"Heat Transfer","Prof. Patrick Turner"
+67,MECH,Btech,semester5,section2,"Manufacturing Processes-III","Prof. Thomas Wilson"
+68,MECH,Btech,semester5,section2,CAD/CAM,"Prof. Eric Mitchell"
+69,MECH,Btech,semester5,section2,"Heat Transfer (Lab)","Prof. Patrick Turner"
+70,MECH,Btech,semester5,section2,"CAD/CAM (Lab)","Prof. Eric Mitchell"
+71,MECH,Btech,semester6,section1,"Thermal Engineering-II","Prof. Brian Martinez"
+72,MECH,Btech,semester6,section1,"Refrigeration and Air Conditioning","Dr. Rachel Scott"
+73,MECH,Btech,semester6,section1,"Power Plant Engineering","Prof. Eric Mitchell"
+74,MECH,Btech,semester6,section1,"Dynamics of Machinery","Dr. Emily Allen"
+75,MECH,Btech,semester6,section1,"Finite Element Analysis","Prof. Richard Turner"
+76,MECH,Btech,semester6,section1,"Power Plant Engineering (Lab)","Prof. Thomas Wilson"
+77,MECH,Btech,semester6,section1,"Finite Element Analysis (Lab)","Prof. Brian Martinez"
+78,MECH,Btech,semester6,section2,"Thermal Engineering-II","Dr. Jessica Turner"
+79,MECH,Btech,semester6,section2,"Refrigeration and Air Conditioning","Dr. Rachel Scott"
+80,MECH,Btech,semester6,section2,"Power Plant Engineering","Dr. Laura Parker"
+81,MECH,Btech,semester6,section2,"Dynamics of Machinery","Prof. Patrick Turner"
+82,MECH,Btech,semester6,section2,"Finite Element Analysis","Prof. Richard Turner"
+83,MECH,Btech,semester6,section2,"Power Plant Engineering (Lab)","Prof. Thomas Wilson"
+84,MECH,Btech,semester6,section2,"Finite Element Analysis (Lab)","Prof. Richard Turner"
+85,MECH,Btech,semester7,section1,"Robotics and Automation","Prof. Eric Mitchell"
+86,MECH,Btech,semester7,section1,"Energy Management","Prof. Brian Martinez"
+87,MECH,Btech,semester7,section1,Mechatronics,"Prof. Eric Mitchell"
+88,MECH,Btech,semester7,section1,"Automotive Engineering","Dr. Emily Allen"
+89,MECH,Btech,semester7,section1,Elective-I,"Dr. Laura Parker"
+90,MECH,Btech,semester7,section1,"Mechatronics (Lab)","Prof. Eric Mitchell"
+91,MECH,Btech,semester7,section1,"Automotive Engineering (Lab)","Dr. Emily Allen"
+92,MECH,Btech,semester7,section2,"Robotics and Automation","Dr. Amanda Reed"
+93,MECH,Btech,semester7,section2,"Energy Management","Prof. Matthew Harris"
+94,MECH,Btech,semester7,section2,Mechatronics,"Dr. Melissa Green"
+95,MECH,Btech,semester7,section2,"Automotive Engineering","Dr. Jessica Turner"
+96,MECH,Btech,semester7,section2,Elective-I,"Prof. Eric Mitchell"
+97,MECH,Btech,semester7,section2,"Mechatronics (Lab)","Dr. Melissa Green"
+98,MECH,Btech,semester7,section2,"Automotive Engineering (Lab)","Dr. Jessica Turner"
+99,MECH,Btech,semester8,section1,"Project Work",optional
+100,MECH,Btech,semester8,section2,"Project Work",optional
+101,MECH,Mtech,semester1,section1,"Advanced Heat Transfer","Prof. Richard Turner"
+102,MECH,Mtech,semester1,section1,"Thermodynamics of Fluid Flow","Dr. Laura Parker"
+103,MECH,Mtech,semester1,section1,"ComPutational Fluid Dynamics","Prof. Thomas Wilson"
+104,MECH,Mtech,semester1,section1,"Advanced Thermodynamics","Dr. Jessica Turner"
+105,MECH,Mtech,semester1,section1,"Mathematical Methods in Thermal Engg.","Prof. Matthew Harris"
+106,MECH,Mtech,semester1,section2,"Advanced Heat Transfer","Dr. Rachel Scott"
+107,MECH,Mtech,semester1,section2,"Thermodynamics of Fluid Flow","Prof. Brian Martinez"
+108,MECH,Mtech,semester1,section2,"ComPutational Fluid Dynamics","Dr. Melissa Green"
+109,MECH,Mtech,semester1,section2,"Advanced Thermodynamics","Prof. Patrick Turner"
+110,MECH,Mtech,semester1,section2,"Mathematical Methods in Thermal Engg.","Dr. Emily Allen"
+111,MECH,Mtech,semester2,section1,"ExPerimental Techniques in Heat Transfer","Dr. Jessica Turner"
+112,MECH,Mtech,semester2,section1,"Conduction Heat Transfer","Prof. Matthew Harris"
+113,MECH,Mtech,semester2,section1,"Radiation Heat Transfer","Dr. Amanda Reed"
+114,MECH,Mtech,semester2,section1,"Heat Exchangers","Prof. Eric Mitchell"
+115,MECH,Mtech,semester2,section1,"Thermal System Design","Prof. Patrick Turner"
+116,MECH,Mtech,semester2,section2,"ExPerimental Techniques in Heat Transfer","Prof. Brian Martinez"
+117,MECH,Mtech,semester2,section2,"Conduction Heat Transfer","Prof. Patrick Turner"
+118,MECH,Mtech,semester2,section2,"Radiation Heat Transfer","Dr. Rachel Scott"
+119,MECH,Mtech,semester2,section2,"Heat Exchangers","Prof. Thomas Wilson"
+120,MECH,Mtech,semester2,section2,"Thermal System Design","Prof. Matthew Harris"
+121,MECH,Mtech,semester3,section1,"Combustion and Emission Control","Prof. Thomas Wilson"
+122,MECH,Mtech,semester3,section1,"Power Plant Engineering","Dr. Jessica Turner"
+123,MECH,Mtech,semester3,section1,"Refrigeration and Air Conditioning","Prof. Matthew Harris"
+124,MECH,Mtech,semester3,section2,"Combustion and Emission Control","Dr. Rachel Scott"
+125,MECH,Mtech,semester3,section2,"Power Plant Engineering","Prof. Brian Martinez"
+126,MECH,Mtech,semester3,section2,"Refrigeration and Air Conditioning","Dr. Melissa Green"
+127,MECH,Mtech,semester4,section1,"Dissertation (Thesis)",optional
+128,MECH,Mtech,semester4,section2,"Dissertation (Thesis)",optional
+129,CSE,Btech,semester1,section1,"Engineering Mathematics-I",R.Praneeth
+130,CSE,Btech,semester1,section1,Physics,P.Sravika
+131,CSE,Btech,semester1,section1,"Introduction to ComPuter Science",M.Srikanth
+132,CSE,Btech,semester1,section1,"Digital Logic and Design",K.Madhuri
+133,CSE,Btech,semester1,section1,"Engineering GraPhics (Lab)",A.Shubodhaya
+134,CSE,Btech,semester1,section1,"Programming Lab (C)",S.Kranthi
+135,CSE,Btech,semester1,section1,"Digital Logic and Design Lab",K.Madhuri
+136,CSE,Btech,semester1,section2,"Engineering Mathematics-I",R.Praneeth
+137,CSE,Btech,semester1,section2,Physics,K.Padma
+138,CSE,Btech,semester1,section2,"Introduction to ComPuter Science",P.Jagadish
+139,CSE,Btech,semester1,section2,"Digital Logic and Design",C.vijayKumar
+140,CSE,Btech,semester1,section2,"Engineering GraPhics (Lab)",A.Shubodhaya
+141,CSE,Btech,semester1,section2,"Programming Lab (C)",M.Srikanth
+142,CSE,Btech,semester1,section2,"Digital Logic and Design Lab",C.vijayKumar
+143,CSE,Btech,semester2,section1,"Engineering Mathematics-II",V.Srikar
+144,CSE,Btech,semester2,section1,"Data Structures and Algorithms",K.HimaBindu
+145,CSE,Btech,semester2,section1,"Object-Oriented Programming",S.Neeraja
+146,CSE,Btech,semester2,section1,"ComPuter Organization and Architecture",M.Srikanth
+147,CSE,Btech,semester2,section1,"Discrete Mathematics",D.Manohar
+148,CSE,Btech,semester2,section1,"Data Structures and Algorithms Lab",K.HimaBindu
+149,CSE,Btech,semester2,section1,"Object-Oriented Programming Lab",S.Neeraja
+150,CSE,Btech,semester2,section2,"Engineering Mathematics-II",V.Srikar
+151,CSE,Btech,semester2,section2,"Data Structures and Algorithms",Y.Haneesha
+152,CSE,Btech,semester2,section2,"Object-Oriented Programming",S.Amrutha
+153,CSE,Btech,semester2,section2,"ComPuter Organization and Architecture",H.Maruthi
+154,CSE,Btech,semester2,section2,"Discrete Mathematics",D.Manohar
+155,CSE,Btech,semester2,section2,"Data Structures and Algorithms Lab",Y.Haneesha
+156,CSE,Btech,semester2,section2,"Object-Oriented Programming Lab",S.Amrutha
+157,CSE,Btech,semester3,section1,"Database Management Systems",K.HimaBindu
+158,CSE,Btech,semester3,section1,"OPerating Systems",S.Neeraja
+159,CSE,Btech,semester3,section1,"ComPuter Networks",M.Srikanth
+160,CSE,Btech,semester3,section1,"Theory of ComPutation",Y.Harsha
+161,CSE,Btech,semester3,section1,"MicroProcessors and Microcontrollers",Dr.Gowri
+162,CSE,Btech,semester3,section1,"Database Management Systems Lab",K.HimaBindu
+163,CSE,Btech,semester3,section1,"OPerating Systems Lab",S.Neeraja
+164,CSE,Btech,semester3,section2,"Database Management Systems",K.Madhuri
+165,CSE,Btech,semester3,section2,"OPerating Systems",S.Kranthi
+166,CSE,Btech,semester3,section2,"ComPuter Networks",P.Jagadish
+167,CSE,Btech,semester3,section2,"Theory of ComPutation",C.D.Janaki
+168,CSE,Btech,semester3,section2,"MicroProcessors and Microcontrollers",Dr.Mohan
+169,CSE,Btech,semester3,section2,"Database Management Systems Lab",K.HimaBindu
+170,CSE,Btech,semester3,section2,"OPerating Systems Lab",S.Neeraja
+171,CSE,Btech,semester4,section1,"Software Engineering",C.vijayKumar
+172,CSE,Btech,semester4,section1,"ComPiler Design",Y.Haneesha
+173,CSE,Btech,semester4,section1,"Artificial Intelligence",Y.Harsha
+174,CSE,Btech,semester4,section1,"Web Technologies",S.Amrutha
+175,CSE,Btech,semester4,section1,"Numerical Methods",V.Srikar
+176,CSE,Btech,semester4,section1,"Software Engineering Lab",C.vijayKumar
+177,CSE,Btech,semester4,section1,"Artificial Intelligence Lab",Y.Harsha
+178,CSE,Btech,semester4,section2,"Software Engineering",M.Srikanth
+179,CSE,Btech,semester4,section2,"ComPiler Design",S.Neeraja
+180,CSE,Btech,semester4,section2,"Artificial Intelligence",H.Maruthi
+181,CSE,Btech,semester4,section2,"Web Technologies",Y.Haneesha
+182,CSE,Btech,semester4,section2,"Numerical Methods",R.Praneeth
+183,CSE,Btech,semester4,section2,"Software Engineering Lab",M.Srikanth
+184,CSE,Btech,semester4,section2,"Artificial Intelligence Lab",Y.Harsha
+185,CSE,Btech,semester5,section1,"Cloud ComPuting",S.Kranthi
+186,CSE,Btech,semester5,section1,"Big Data Analytics",C.D.Janaki
+187,CSE,Btech,semester5,section1,"Mobile APPlication DeveloPment",Y.Harsha
+188,CSE,Btech,semester5,section1,Cybersecurity,K.Madhuri
+189,CSE,Btech,semester5,section1,"Internet of Things (IoT)",S.Amrutha
+190,CSE,Btech,semester5,section1,"Cloud ComPuting Lab",S.Kranthi
+191,CSE,Btech,semester5,section1,"Mobile APPlication DeveloPment Lab",Y.Harsha
+192,CSE,Btech,semester5,section2,"Cloud ComPuting",P.Jagadish
+193,CSE,Btech,semester5,section2,"Big Data Analytics",H.Maruthi
+194,CSE,Btech,semester5,section2,"Mobile APPlication DeveloPment",K.Madhuri
+195,CSE,Btech,semester5,section2,Cybersecurity,Y.Haneesha
+196,CSE,Btech,semester5,section2,"Internet of Things (IoT)",M.Srikanth
+197,CSE,Btech,semester5,section2,"Cloud ComPuting Lab",P.Jagadish
+198,CSE,Btech,semester5,section2,"Mobile APPlication DeveloPment Lab",Y.Harsha
+199,CSE,Btech,semester6,section1,"Machine Learning",K.HimaBindu
+200,CSE,Btech,semester6,section1,"Distributed Systems",M.Srikanth
+201,CSE,Btech,semester6,section1,"Natural Language Processing",H.Maruthi
+202,CSE,Btech,semester6,section1,"Software Testing and Quality Assurance",S.Neeraja
+203,CSE,Btech,semester6,section1,"Robotics and Automation",Dr.Sunitha
+204,CSE,Btech,semester6,section1,"Machine Learning Lab",K.HimaBindu
+205,CSE,Btech,semester6,section1,"Robotics and Automation Lab",Dr.Sunitha
+206,CSE,Btech,semester6,section2,"Machine Learning",C.vijayKumar
+207,CSE,Btech,semester6,section2,"Distributed Systems",S.Kranthi
+208,CSE,Btech,semester6,section2,"Natural Language Processing",S.Amrutha
+209,CSE,Btech,semester6,section2,"Software Testing and Quality Assurance",C.D.Janaki
+210,CSE,Btech,semester6,section2,"Robotics and Automation","prof. Aruna"
+211,CSE,Btech,semester6,section2,"Machine Learning Lab",C.vijayKumar
+212,CSE,Btech,semester6,section2,"Robotics and Automation Lab",prof.Aruna
+213,CSE,Btech,semester7,section1,"Data Science",Y.Harsha
+214,CSE,Btech,semester7,section1,"Blockchain Technology",P.Jagadish
+215,CSE,Btech,semester7,section1,"Advanced ComPuter Networks",M.Srikanth
+216,CSE,Btech,semester7,section1,"Image Processing and ComPuter Vision",S.Neeraja
+217,CSE,Btech,semester7,section1,"Software Project Management",H.Maruthi
+218,CSE,Btech,semester7,section1,"Data Science Lab",Y.Harsha
+219,CSE,Btech,semester7,section1,"Blockchain Technology Lab",P.Jagadish
+220,CSE,Btech,semester7,section2,"Data Science",S.Kranthi
+221,CSE,Btech,semester7,section2,"Blockchain Technology",Y.Haneesha
+222,CSE,Btech,semester7,section2,"Advanced ComPuter Networks",S.Neeraja
+223,CSE,Btech,semester7,section2,"Image Processing and ComPuter Vision",C.D.Janaki
+224,CSE,Btech,semester7,section2,"Software Project Management",S.Amrutha
+225,CSE,Btech,semester7,section2,"Data Science Lab",S.Kranthi
+226,CSE,Btech,semester7,section2,"Blockchain Technology Lab",Y.Haneesha
+227,CSE,Btech,semester8,section1,Project,optional
+228,CSE,Btech,semester8,section2,project,optional
+229,CSE,Mtech,semester1,section1,"Foundations of Cyber Security",C.D.Janaki
+230,CSE,Mtech,semester1,section1,"Network Security",S.Neeraja
+231,CSE,Mtech,semester1,section1,"CryPtograPhy and Data Security",H.Maruthi
+232,CSE,Mtech,semester1,section1,"Cyber Threat Intelligence",C.vijayKumar
+233,CSE,Mtech,semester1,section1,"Cyber Security Lab",C.D.Janaki
+234,CSE,Mtech,semester1,section2,"Foundations of Cyber Security",Y.Harsha
+235,CSE,Mtech,semester1,section2,"Network Security",K.Madhuri
+236,CSE,Mtech,semester1,section2,"CryPtograPhy and Data Security",S.Kranthi
+237,CSE,Mtech,semester1,section2,"Cyber Threat Intelligence",S.Neeraja
+238,CSE,Mtech,semester1,section2,"Cyber Security Lab",Y.Harsha
+239,CSE,Mtech,semester2,section1,"Web APPlication Security",Y.Haneesha
+240,CSE,Mtech,semester2,section1,"Secure Coding and Ethical Hacking",S.Amrutha
+241,CSE,Mtech,semester2,section1,"Intrusion Detection and Prevention",C.D.Janaki
+242,CSE,Mtech,semester2,section1,"Cloud Security",H.Maruthi
+243,CSE,Mtech,semester2,section1,"Web APPlication Security Lab",Y.Haneesha
+244,CSE,Mtech,semester2,section2,"Web APPlication Security",P.Jagadish
+245,CSE,Mtech,semester2,section2,"Secure Coding and Ethical Hacking",C.vijayKumar
+246,CSE,Mtech,semester2,section2,"Intrusion Detection and Prevention",K.HimaBindu
+247,CSE,Mtech,semester2,section2,"Cloud Security",S.Neeraja
+248,CSE,Mtech,semester2,section2,"Web APPlication Security Lab",P.Jagadish
+249,CSE,Mtech,semester3,section1,"Cyber Forensics",S.Amrutha
+250,CSE,Mtech,semester3,section1,"Mobile Security",K.Madhuri
+251,CSE,Mtech,semester3,section1,"Wireless and IoT Security",C.D.Janaki
+252,CSE,Mtech,semester3,section2,"Cyber Forensics",M.Srikanth
+253,CSE,Mtech,semester3,section2,"Mobile Security",P.Jagadish
+254,CSE,Mtech,semester3,section2,"Wireless and IoT Security",C.vijayKumar
+255,CSE,Mtech,semester4,section1,"Dissertation (Thesis)",optional
+256,CSE,Mtech,semester4,section2,"Dissertation (Thesis)",optional
+257,ECE,Btech,semester1,section1,"Engineering Mathematics-I",Prof.Praneeth
+258,ECE,Btech,semester1,section1,Physics,Prof.Sravika
+259,ECE,Btech,semester1,section1,"Introduction to Electronics Engineering","Prof. David Johnson"
+260,ECE,Btech,semester1,section1,"ComPuter Programming","Dr.Megan Clak"
+261,ECE,Btech,semester1,section1,"Engineering GraPhics (Lab)","Prof. Jennifer Roberts"
+262,ECE,Btech,semester1,section1,"Electronics WorkshoP (Lab)","Prof.Rachel Scott"
+263,ECE,Btech,semester1,section1,"ComPuter Programming (Lab)","Dr.Megan Clak"
+264,ECE,Btech,semester1,section2,"Engineering Mathematics-I","Dr.Srikar varma"
+265,ECE,Btech,semester1,section2,Physics,Prof.Padmavathi
+266,ECE,Btech,semester1,section2,"Introduction to Electronics Engineering","Prof. Laura Turner"
+267,ECE,Btech,semester1,section2,"ComPuter Programming","Prof. Ryan White"
+268,ECE,Btech,semester1,section2,"Engineering GraPhics (Lab)","Prof. Jennifer Roberts"
+269,ECE,Btech,semester1,section2,"Electronics WorkshoP (Lab)","Prof. Laura Turner"
+270,ECE,Btech,semester1,section2,"ComPuter Programming (Lab)","Prof. Christopher Wilson"
+271,ECE,Btech,semester2,section1,"Engineering Mathematics-II","Dr.Srikar varma"
+272,ECE,Btech,semester2,section1,"Circuit Theory","Dr. Emily Anderson"
+273,ECE,Btech,semester2,section1,"Electronic Devices and Circuits","Prof. Michael Carter"
+274,ECE,Btech,semester2,section1,"Electromagnetic Theory","Dr. Sophia Lee"
+275,ECE,Btech,semester2,section1,"Network Analysis","Prof. David Johnson"
+276,ECE,Btech,semester2,section1,"Electronic Devices and Circuits (Lab)","Prof. Michael Carter"
+277,ECE,Btech,semester2,section1,"Network Analysis (Lab)","Prof. David Johnson"
+278,ECE,Btech,semester2,section2,"Engineering Mathematics-II",Prof.Praneeth
+279,ECE,Btech,semester2,section2,"Circuit Theory","Dr. Daniel Brown"
+280,ECE,Btech,semester2,section2,"Electronic Devices and Circuits","Prof. Laura Turner"
+281,ECE,Btech,semester2,section2,"Electromagnetic Theory","Dr. Benjamin Reed"
+282,ECE,Btech,semester2,section2,"Network Analysis","Prof. Jennifer Roberts"
+283,ECE,Btech,semester2,section2,"Electronic Devices and Circuits (Lab)","Prof. Laura Turner"
+284,ECE,Btech,semester2,section2,"Network Analysis (Lab)","Prof. Jennifer Roberts"
+285,ECE,Btech,semester3,section1,"Signals and Systems","Dr. William Allen"
+286,ECE,Btech,semester3,section1,"Digital Electronics","Prof. Elizabeth Scott"
+287,ECE,Btech,semester3,section1,"Analog Electronics","Dr. Samuel Hall"
+288,ECE,Btech,semester3,section1,"Electromagnetic Waves and Transmission Lines","Prof. Catherine Young"
+289,ECE,Btech,semester3,section1,"Digital Signal Processing","Dr. Sophia Lee"
+290,ECE,Btech,semester3,section1,"Analog Electronics (Lab)","Dr. Samuel Hall"
+291,ECE,Btech,semester3,section1,"Digital Electronics (Lab)","Prof. Elizabeth Scott"
+292,ECE,Btech,semester3,section2,"Signals and Systems","Prof. Catherine Young"
+293,ECE,Btech,semester3,section2,"Digital Electronics","Prof. Michael Carter"
+294,ECE,Btech,semester3,section2,"Analog Electronics","Dr. Sophia Lee"
+295,ECE,Btech,semester3,section2,"Electromagnetic Waves and Transmission Lines","Prof. David Johnson"
+296,ECE,Btech,semester3,section2,"Digital Signal Processing","Dr. William Allen"
+297,ECE,Btech,semester3,section2,"Analog Electronics (Lab)","Dr. Sophia Lee"
+298,ECE,Btech,semester3,section2,"Digital Electronics (Lab)","Prof. Elizabeth Scott"
+299,ECE,Btech,semester4,section1,"MicroProcessors and Microcontrollers",Dr.Mohan
+300,ECE,Btech,semester4,section1,"Communication Systems","Prof. Catherine Young"
+301,ECE,Btech,semester4,section1,"Control Systems","Dr. Samuel Hall"
+302,ECE,Btech,semester4,section1,"Antenna Theory and Design","Prof. Laura Turner"
+303,ECE,Btech,semester4,section1,"Power Electronics","Dr. William Allen"
+304,ECE,Btech,semester4,section1,"MicroProcessors and Microcontrollers (Lab)",Dr.Mohan
+305,ECE,Btech,semester4,section1,"Communication Systems (Lab)","Dr. Sophia Lee"
+306,ECE,Btech,semester4,section2,"MicroProcessors and Microcontrollers",Dr.Gowari
+307,ECE,Btech,semester4,section2,"Communication Systems","Prof. David Johnson"
+308,ECE,Btech,semester4,section2,"Control Systems","Prof. Michael Carter"
+309,ECE,Btech,semester4,section2,"Antenna Theory and Design","Dr. William Allen"
+310,ECE,Btech,semester4,section2,"Power Electronics","Prof. Jennifer Roberts"
+311,ECE,Btech,semester4,section2,"MicroProcessors and Microcontrollers (Lab)",Dr.Gowari
+312,ECE,Btech,semester4,section2,"Communication Systems (Lab)","Prof. David Johnson"
+313,ECE,Btech,semester5,section1,"VLSI Design",Dr.Mohan
+314,ECE,Btech,semester5,section1,"Digital Communication",Dr.Gowari
+315,ECE,Btech,semester5,section1,"Microwave Engineering","Prof. Catherine Young"
+316,ECE,Btech,semester5,section1,"Embedded Systems","Dr. Samuel Hall"
+317,ECE,Btech,semester5,section1,"Control System Design","Prof. Elizabeth Scott"
+318,ECE,Btech,semester5,section1,"VLSI Design (Lab)",prof.Bindu
+319,ECE,Btech,semester5,section1,"Microwave Engineering (Lab)","Dr. Samuel Hall"
+320,ECE,Btech,semester5,section2,"VLSI Design",prof.Bindu
+321,ECE,Btech,semester5,section2,"Digital Communication","Prof. Michael Carter"
+322,ECE,Btech,semester5,section2,"Microwave Engineering","Dr. Emily Anderson"
+323,ECE,Btech,semester5,section2,"Embedded Systems","Dr. Sophia Lee"
+324,ECE,Btech,semester5,section2,"Control System Design","Prof. David Johnson"
+325,ECE,Btech,semester5,section2,"VLSI Design (Lab)",prof.Bindu
+326,ECE,Btech,semester5,section2,"Microwave Engineering (Lab)","Dr. Emily Anderson"
+327,ECE,Btech,semester6,section1,"Digital System Design using HDL",Dr.Mohan
+328,ECE,Btech,semester6,section1,"RF and Microwave Circuits",Dr.Gowari
+329,ECE,Btech,semester6,section1,"Data Communication Networks","Prof. Catherine Young"
+330,ECE,Btech,semester6,section1,"OPtical Communication Systems","Dr. Samuel Hall"
+331,ECE,Btech,semester6,section1,"Digital Image Processing","Prof. Elizabeth Scott"
+332,ECE,Btech,semester6,section1,"Digital System Design using HDL (Lab)",prof.Bindu
+333,ECE,Btech,semester6,section1,"RF and Microwave Circuits (Lab)","Dr. Samuel Hall"
+334,ECE,Btech,semester6,section2,"Digital System Design using HDL",prof.Bindu
+335,ECE,Btech,semester6,section2,"RF and Microwave Circuits","Prof. Michael Carter"
+336,ECE,Btech,semester6,section2,"Data Communication Networks","Dr. Emily Anderson"
+337,ECE,Btech,semester6,section2,"OPtical Communication Systems","Dr. Sophia Lee"
+338,ECE,Btech,semester6,section2,"Digital Image Processing","Prof. David Johnson"
+339,ECE,Btech,semester6,section2,"Digital System Design using HDL (Lab)",prof.Bindu
+340,ECE,Btech,semester6,section2,"RF and Microwave Circuits (Lab)","Dr. Emily Anderson"
+341,ECE,Btech,semester7,section1,"Wireless Communication","Dr. William Allen"
+342,ECE,Btech,semester7,section1,"Network Security","Prof. Elizabeth Scott"
+343,ECE,Btech,semester7,section1,"Satellite Communication","Dr. Samuel Hall"
+344,ECE,Btech,semester7,section1,"Digital Signal Processing APPlications","Prof. Catherine Young"
+345,ECE,Btech,semester7,section1,"Biomedical Signal Processing","Dr. Sophia Lee"
+346,ECE,Btech,semester7,section1,"Wireless Communication (Lab)","Dr. Samuel Hall"
+347,ECE,Btech,semester7,section1,"Network Security (Lab)","Prof. Elizabeth Scott"
+348,ECE,Btech,semester7,section2,"Wireless Communication","Prof. Catherine Young"
+349,ECE,Btech,semester7,section2,"Network Security","Prof. Michael Carter"
+350,ECE,Btech,semester7,section2,"Satellite Communication","Dr. Sophia Lee"
+351,ECE,Btech,semester7,section2,"Digital Signal Processing APPlications","Prof. David Johnson"
+352,ECE,Btech,semester7,section2,"Biomedical Signal Processing","Dr. William Allen"
+353,ECE,Btech,semester7,section2,"Wireless Communication (Lab)","Dr. Sophia Lee"
+354,ECE,Btech,semester7,section2,"Network Security (Lab)","Prof. Elizabeth Scott"
+355,ECE,Btech,semester8,section1,"Project Work",optional
+356,ECE,Btech,semester8,section2,"Project Work",optional
+357,ECE,Mtech,semester1,section1,"Digital Signal Processing","Dr. Emily Anderson"
+358,ECE,Mtech,semester1,section1,"Random Processes and Estimation Theory","Dr. Sophia Lee"
+359,ECE,Mtech,semester1,section1,"Advanced Communication Systems","Dr. William Allen"
+360,ECE,Mtech,semester1,section1,"Statistical Signal Processing","Dr. Daniel Brown"
+361,ECE,Mtech,semester1,section1,"Signal Processing Lab","Dr. Benjamin Reed"
+362,ECE,Mtech,semester1,section2,"Digital Signal Processing","Dr. Samuel Hall"
+363,ECE,Mtech,semester1,section2,"Random Processes and Estimation Theory","Dr. William Allen"
+364,ECE,Mtech,semester1,section2,"Advanced Communication Systems","Dr. Emily Anderson"
+365,ECE,Mtech,semester1,section2,"Statistical Signal Processing","Prof. Jennifer Roberts"
+366,ECE,Mtech,semester1,section2,"Signal Processing Lab","Prof. Catherine Young"
+367,ECE,Mtech,semester2,section1,"Digital Image Processing","Dr. Emily Anderson"
+368,ECE,Mtech,semester2,section1,"Pattern Recognition","Dr. Sophia Lee"
+369,ECE,Mtech,semester2,section1,"SPeech Processing","Dr. William Allen"
+370,ECE,Mtech,semester2,section1,"Information Theory and Coding","Dr. Daniel Brown"
+371,ECE,Mtech,semester2,section1,"Digital Image Processing Lab","Dr. Benjamin Reed"
+372,ECE,Mtech,semester2,section2,"Digital Image Processing","Dr. Samuel Hall"
+373,ECE,Mtech,semester2,section2,"Pattern Recognition","Dr. William Allen"
+374,ECE,Mtech,semester2,section2,"SPeech Processing","Dr. Emily Anderson"
+375,ECE,Mtech,semester2,section2,"Information Theory and Coding","Prof. Jennifer Roberts"
+376,ECE,Mtech,semester2,section2,"Digital Image Processing Lab","Prof. Catherine Young"
+377,ECE,Mtech,semester3,section1,"AdaPtive Signal Processing","Prof. Michael Carter"
+378,ECE,Mtech,semester3,section1,"Wireless Communication Systems","Prof. Jennifer Roberts"
+379,ECE,Mtech,semester3,section1,"Array Signal Processing","Dr. Samuel Hall"
+380,ECE,Mtech,semester3,section2,"AdaPtive Signal Processing","Dr. Emily Anderson"
+381,ECE,Mtech,semester3,section2,"Wireless Communication Systems","Dr. William Allen"
+382,ECE,Mtech,semester3,section2,"Array Signal Processing","Dr. Sophia Lee"
+383,ECE,Mtech,semester4,section1,"Dissertation (Thesis)",optional
+384,ECE,Mtech,semester4,section2,"Dissertation (Thesis)",optional
+385,EEE,Btech,semester1,section1,"Engineering Mathematics-I",prof.Praneeth
+386,EEE,Btech,semester1,section1,Physics,prof.padma
+387,EEE,Btech,semester1,section1,"Introduction to Electrical Engg.","Prof. Rachel Carter"
+388,EEE,Btech,semester1,section1,"ComPuter Programming","Prof. Thomas Wilson"
+389,EEE,Btech,semester1,section1,"Engineering GraPhics (Lab)",Dr.Harika
+390,EEE,Btech,semester1,section1,"Basic Electrical Engineering (Lab)","Prof. Lauren Turner"
+391,EEE,Btech,semester1,section1,"ComPuter Programming (Lab)","Prof. Thomas Wilson"
+392,EEE,Btech,semester1,section2,"Engineering Mathematics-I",Dr.Praneeth
+393,EEE,Btech,semester1,section2,Physics,Prof.Sravika
+394,EEE,Btech,semester1,section2,"Introduction to Electrical Engg.","Dr. Rachel Carter"
+395,EEE,Btech,semester1,section2,"ComPuter Programming","Prof. Thomas Wilson"
+396,EEE,Btech,semester1,section2,"Engineering GraPhics (Lab)",Dr.Harika
+397,EEE,Btech,semester1,section2,"Basic Electrical Engineering (Lab)","Prof. Lauren Turner"
+398,EEE,Btech,semester1,section2,"ComPuter Programming (Lab)","Dr. Thomas Wilson"
+399,EEE,Btech,semester2,section1,"Engineering Mathematics-II",prof.shrikhar
+400,EEE,Btech,semester2,section1,"Circuit Theory","Prof. William Davis"
+401,EEE,Btech,semester2,section1,"Electronic Devices and Circuits","Dr. Jessica Lee"
+402,EEE,Btech,semester2,section1,"Electromagnetic Theory","Dr. Sarah Roberts"
+403,EEE,Btech,semester2,section1,"Network Analysis","Prof. Benjamin Reed"
+404,EEE,Btech,semester2,section1,"Electronic Devices and Circuits (Lab)","Dr. Jessica Lee"
+405,EEE,Btech,semester2,section1,"Network Analysis (Lab)","Dr. Benjamin Reed"
+406,EEE,Btech,semester2,section2,"Engineering Mathematics-II","Prof. Rachel Carter"
+407,EEE,Btech,semester2,section2,"Circuit Theory","Dr. William Davis"
+408,EEE,Btech,semester2,section2,"Electronic Devices and Circuits","Prof. Elizabeth White"
+409,EEE,Btech,semester2,section2,"Electromagnetic Theory","Prof. Sarah Roberts"
+410,EEE,Btech,semester2,section2,"Network Analysis","Dr. Benjamin Reed"
+411,EEE,Btech,semester2,section2,"Electronic Devices and Circuits (Lab)","Prof. Elizabeth White"
+412,EEE,Btech,semester2,section2,"Network Analysis (Lab)","Dr. Benjamin Reed"
+413,EEE,Btech,semester3,section1,"Signals and Systems","Dr. Daniel Brown"
+414,EEE,Btech,semester3,section1,"Digital Electronics",Dr.lisa
+415,EEE,Btech,semester3,section1,"Electrical Measurements and Instrumentation","Prof. Katherine Brown"
+416,EEE,Btech,semester3,section1,"Electromagnetic Waves and Transmission Lines","Dr. Michael Hill"
+417,EEE,Btech,semester3,section1,"Digital Signal Processing","Prof. Michael Carter"
+418,EEE,Btech,semester3,section1,"Digital Electronics (Lab)",Dr.lisa
+419,EEE,Btech,semester3,section1,"Electrical Measurements and Instrumentation (Lab)","Prof. Katherine Brown"
+420,EEE,Btech,semester3,section2,"Signals and Systems","Dr. Daniel Brown"
+421,EEE,Btech,semester3,section2,"Digital Electronics",Prof.lisa
+422,EEE,Btech,semester3,section2,"Electrical Measurements and Instrumentation","Dr. Katherine Brown"
+423,EEE,Btech,semester3,section2,"Electromagnetic Waves and Transmission Lines","Prof. Michael Hill"
+424,EEE,Btech,semester3,section2,"Digital Signal Processing","Dr. Michael Carter"
+425,EEE,Btech,semester3,section2,"Digital Electronics (Lab)",Prof.lisa
+426,EEE,Btech,semester3,section2,"Electrical Measurements and Instrumentation (Lab)","Prof. Katherine Brown"
+427,EEE,Btech,semester4,section1,"MicroProcessors and Microcontrollers",Dr.David
+428,EEE,Btech,semester4,section1,"Control Systems","Dr. Samuel Hall"
+429,EEE,Btech,semester4,section1,"Power Electronics","Dr. Michael Hill"
+430,EEE,Btech,semester4,section1,"Electrical Machines",Dr.Rose
+431,EEE,Btech,semester4,section1,"Power System Analysis","Dr. Jason Young"
+432,EEE,Btech,semester4,section1,"MicroProcessors and Microcontrollers (Lab)",Dr.Mohan
+433,EEE,Btech,semester4,section1,"Control Systems (Lab)","Dr. Samuel Hall"
+434,EEE,Btech,semester4,section2,"MicroProcessors and Microcontrollers",Prof.Christofer
+435,EEE,Btech,semester4,section2,"Control Systems","prof. Samuel Hall"
+436,EEE,Btech,semester4,section2,"Power Electronics","prof. Michael Hill"
+437,EEE,Btech,semester4,section2,"Electrical Machines",prof.Rose
+438,EEE,Btech,semester4,section2,"Power System Analysis","prof. Jason Young"
+439,EEE,Btech,semester4,section2,"MicroProcessors and Microcontrollers (Lab)",prof.Mohan
+440,EEE,Btech,semester4,section2,"Control Systems (Lab)","prof. Samuel Hall"
+441,EEE,Btech,semester5,section1,"Power System Protection","Dr. Jason Young"
+442,EEE,Btech,semester5,section1,"High Voltage Engineering","Dr. Benjamin Clark"
+443,EEE,Btech,semester5,section1,"Power System OPeration and Control","Dr. Christopher Reed"
+444,EEE,Btech,semester5,section1,"Utilization of Electrical Energy","Prof. Elizabeth White"
+445,EEE,Btech,semester5,section1,"Power System Protection (Lab)",prof.James
+446,EEE,Btech,semester5,section1,"High Voltage Engineering (Lab)","prof.Micheal Clark"
+447,EEE,Btech,semester5,section2,"Power System Protection","Dr. Samuel Hall"
+448,EEE,Btech,semester5,section2,"High Voltage Engineering",Dr.Smith
+449,EEE,Btech,semester5,section2,"Power System OPeration and Control","Dr.David Smith"
+450,EEE,Btech,semester5,section2,"Utilization of Electrical Energy","Prof. Rachel Carter"
+451,EEE,Btech,semester5,section2,"Power System Protection (Lab)",Prof.Dhoni
+452,EEE,Btech,semester5,section2,"High Voltage Engineering (Lab)",Prof.Messi
+453,EEE,Btech,semester6,section1,"Electrical Machine Design",Dr.Puri
+454,EEE,Btech,semester6,section1,"Renewable Energy Sources",Dr.Praveen
+455,EEE,Btech,semester6,section1,"Electrical Distribution Systems","Dr.Jason Young"
+456,EEE,Btech,semester6,section1,"Electrical Measurements and Control","Dr.Racheal Charter"
+457,EEE,Btech,semester6,section1,"Digital Control Systems",Prof.Bheem
+458,EEE,Btech,semester6,section1,"Electrical Machine Design (Lab)",Dr.Ram
+459,EEE,Btech,semester6,section1,"Digital Control Systems (Lab)","Dr.Jason Young"
+460,EEE,Btech,semester6,section2,"Electrical Machine Design","Dr.Christopher Reed "
+461,EEE,Btech,semester6,section2,"Renewable Energy Sources",Prof.james
+462,EEE,Btech,semester6,section2,"Electrical Distribution Systems","Prof.Rachel Carter"
+463,EEE,Btech,semester6,section2,"Electrical Measurements and Control",Prof.Dhoni
+464,EEE,Btech,semester6,section2,"Digital Control Systems","prof.Micheal Clark"
+465,EEE,Btech,semester6,section2,"Electrical Machine Design (Lab)",Dr.Benjamin
+466,EEE,Btech,semester6,section2,"Digital Control Systems (Lab)",Dr.Mark
+467,EEE,Btech,semester7,section1,"Power Electronics and Drives",Prof.Ranger
+468,EEE,Btech,semester7,section1,"Instrumentation and Control Systems",Prof.Mark
+469,EEE,Btech,semester7,section1,"Energy Management","Dr.Smith Lang"
+470,EEE,Btech,semester7,section1,"Embedded Systems",Prof.Rolex
+471,EEE,Btech,semester7,section1,"Control System Design",Dr.Rolex
+472,EEE,Btech,semester7,section1,"Power Electronics and Drives (Lab)",Dr.Jaack
+473,EEE,Btech,semester7,section1,"Instrumentation and Control Systems (Lab)",Dr.Robust
+474,EEE,Btech,semester7,section2,"Power Electronics and Drives",Dr.Daniel
+475,EEE,Btech,semester7,section2,"Instrumentation and Control Systems",Prof.Daniel
+476,EEE,Btech,semester7,section2,"Energy Management",Prof.Titan
+477,EEE,Btech,semester7,section2,"Embedded Systems",Dr.Titan
+478,EEE,Btech,semester7,section2,"Control System Design",Dr.Boron
+479,EEE,Btech,semester7,section2,"Power Electronics and Drives (Lab)",Prof.Rogger
+480,EEE,Btech,semester7,section2,"Instrumentation and Control Systems (Lab)",Dr.Kohli
+481,EEE,Btech,semester8,section1,"Project Work",optional
+482,EEE,Btech,semester8,section2,"Project Work",optional
+483,EEE,Mtech,semester1,section1,"Advanced Power Systems Analysis","Prof. Jennifer Smith"
+484,EEE,Mtech,semester1,section1,"Power System Stability and Control","Dr. Robert Williams"
+485,EEE,Mtech,semester1,section1,"Advanced Power Electronics","Prof. Amy Martin"
+486,EEE,Mtech,semester1,section1,"Power Quality and FACTS","Dr. Andrew Thompson"
+487,EEE,Mtech,semester1,section1,"Power Systems Lab","Prof. Jennifer Smith"
+488,EEE,Mtech,semester1,section2,"Advanced Power Systems Analysis","Prof. Kevin Davis"
+489,EEE,Mtech,semester1,section2,"Power System Stability and Control","Dr. Jessica Lee"
+490,EEE,Mtech,semester1,section2,"Advanced Power Electronics","Prof. Christopher Wilson"
+491,EEE,Mtech,semester1,section2,"Power Quality and FACTS","Dr. Megan Clark"
+492,EEE,Mtech,semester1,section2,"Power Systems Lab","Prof. Kevin Davis"
+493,EEE,Mtech,semester2,section1,"Renewable Energy Systems","Prof. Jonathan Thomas"
+494,EEE,Mtech,semester2,section1,"High Voltage Engineering","Dr. Michelle Turner"
+495,EEE,Mtech,semester2,section1,"Power System Protection","Prof. Ryan White"
+496,EEE,Mtech,semester2,section1,"Power System OPeration and Control","Dr. Stephanie Anderson"
+497,EEE,Mtech,semester2,section1,"Renewable Energy Systems Lab","Prof. Jonathan Thomas"
+498,EEE,Mtech,semester2,section2,"Renewable Energy Systems","Prof. Jennifer Smith"
+499,EEE,Mtech,semester2,section2,"High Voltage Engineering","Dr. Robert Williams"
+500,EEE,Mtech,semester2,section2,"Power System Protection","Prof. Amy Martin"
+501,EEE,Mtech,semester2,section2,"Power System OPeration and Control","Dr. Andrew Thompson"
+502,EEE,Mtech,semester2,section2,"Renewable Energy Systems Lab","Prof. Jennifer Smith"
+503,EEE,Mtech,semester3,section1,"Power System OPtimization and Planning","Prof. Kevin Davis"
+504,EEE,Mtech,semester3,section1,"Power Electronics and Drives","Prof. Christopher Wilson"
+505,EEE,Mtech,semester3,section1,"Power Electronics and Drives Lab","Prof. Christopher Wilson"
+506,EEE,Mtech,semester3,section2,"Power System OPtimization and Planning","Prof. Jonathan Thomas"
+507,EEE,Mtech,semester3,section2,"Power Electronics and Drives","Prof. Ryan White"
+508,EEE,Mtech,semester3,section2,"Power Electronics and Drives Lab","Prof. Ryan White"
+509,EEE,Mtech,semester4,section1,"Dissertation (Thesis)",optional
+510,EEE,Mtech,semester4,section2,"Dissertation (Thesis)",optional

@@ -1,0 +1,11 @@
+courseId,courseName,noOfSemesters,deptId
+10,Btech,8,MECH
+11,Mtech,4,MECH
+12,Btech,8,ECE
+13,Mtech,4,ECE
+14,Btech,8,EEE
+15,Mtech,4,EEE
+16,Btech,8,CSE
+17,Mtech,4,CSE
+18,Btech,8,CIVIL
+19,Mtech,4,CIVIL
